@@ -13,6 +13,7 @@ export default function LoginPage() {
         </div>
         <Suspense>
           <LoginForm />
+          
         </Suspense>
       </div>
     </main>

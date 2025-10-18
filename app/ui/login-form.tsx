@@ -78,6 +78,7 @@ export default function LoginForm() {
             </>
           )}
         </div>
+        <p>邮箱：user@nextmail.com 密码：123456</p>
       </div>
     </form>
   );
